@@ -1,5 +1,5 @@
 {
-  "name": "@standardnotes/moss-theme",
+  "name": "moss-theme",
   "version": "1.0.0",
   "main": "dist/dist.css",
   "author": "TheMany",
