@@ -1,13 +1,13 @@
 {
-  "name": "@standardnotes/dracula-theme",
-  "version": "1.2.0",
+  "name": "@standardnotes/moss-theme",
+  "version": "1.0.0",
   "main": "dist/dist.css",
-  "author": "Standard Notes",
+  "author": "TheMany",
   "publishConfig": {
     "access": "public"
   },
   "sn": {
-    "name": "Dracula",
+    "name": "Moss",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "dist/dist.css",
