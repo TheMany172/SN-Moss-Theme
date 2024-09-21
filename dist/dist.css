@@ -2,7 +2,7 @@
   --background: #3b4a42;
   --secondary-background: #4f6558;
   --current-line: #44475a;
-  --foreground: #c9c9c8;
+  --foreground: #d1d1d0;
   --comment: #68a462;
   --red: #ca7d35;
   --orange: #fc962a;
@@ -11,8 +11,8 @@
   --purple: #ff9244d0;
   --cyan: #be4141;
   --yellow: #f9d876c0;
-  --bar-color: rgb(32, 34, 49);
-  --darker-background: rgb(25, 26, 33);
+  --bar-color: rgb(58, 61, 84);
+  --darker-background: rgb(53, 55, 69);
   --darker-background-border: rgb(32, 34, 49);
   
     --sn-stylekit-accessory-tint-color-1: var(--purple);
