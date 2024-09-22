@@ -1,19 +1,19 @@
 :root {
-  --background: #35433cda;
-  --secondary-background: #3f5340;
+  --background: #282a36;
+  --secondary-background: #303342;
   --current-line: #44475a;
-  --foreground: #d1d1d0;
-  --comment: #68a462;
-  --red: #ca7d35;
-  --orange: #fc972aed;
+  --foreground: #f8f8f2;
+  --comment: #6272a4;
+  --red: #ff5555;
+  --orange: #ffb86c;
   --green: #50fa7b;
-  --pink: #accd03;
-  --purple: #ff9244d0;
-  --cyan: #b59b70;
-  --yellow: #f9d876c0;
-  --bar-color: rgb(50, 53, 74);
-  --darker-background: rgb(53, 55, 69);
-  --darker-background-border: rgba(250, 116, 49, 0.407);
+  --pink: #ff79c6;
+  --purple: #bd93f9;
+  --cyan: #8be9fd;
+  --yellow: #f1fa8c;
+  --bar-color: rgb(32, 34, 49);
+  --darker-background: rgb(25, 26, 33);
+  --darker-background-border: rgb(32, 34, 49);
 
   --sn-stylekit-accessory-tint-color-1: var(--purple);
   --sn-stylekit-accessory-tint-color-2: var(--pink);
