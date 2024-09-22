@@ -1,6 +1,6 @@
 :root {
-  --background: #35433c;
-  --secondary-background: #46584e;
+  --background: #35433cda;
+  --secondary-background: #394941;
   --current-line: #44475a;
   --foreground: #d1d1d0;
   --comment: #68a462;
@@ -13,7 +13,7 @@
   --yellow: #f9d876c0;
   --bar-color: rgb(50, 53, 74);
   --darker-background: rgb(53, 55, 69);
-  --darker-background-border: rgb(60, 63, 92);
+  --darker-background-border: rgb(78, 60, 51);
   
     --sn-stylekit-accessory-tint-color-1: var(--purple);
     --sn-stylekit-accessory-tint-color-2: var(--pink);
