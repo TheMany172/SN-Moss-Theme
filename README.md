@@ -2,4 +2,4 @@
 
 SN install link - https://listed.to/p/CSO8iQZ7mv
 
-![themescreenshot.png](./images/themescreenshot.png)
+![themescreenshot.png](/images/themescreenshot.PNG)
