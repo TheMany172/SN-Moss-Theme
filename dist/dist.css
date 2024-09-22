@@ -23,7 +23,7 @@
     --sn-stylekit-accessory-tint-color-6: var(--yellow);
     --highlight-color: var(--comment);
     --sn-component-foreground-color: var(--foreground);
-    --sn-component-background-color: var(--);
+    --sn-component-background-color: var(--secondary-background);
     --sn-component-foreground-highlight-color: var(--highlight-color);
     --sn-component-outer-border-color: var(--comment);
     --sn-component-inner-border-color: var(--foreground);
