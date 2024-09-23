@@ -62,9 +62,9 @@
     --sn-stylekit-grey-5: var(--highlight-color);
     --sn-stylekit-grey-4-opacity-variant: var(--current-line);
   
-    --sn-stylekit-passive-color-4: #0e0c11;
+    --sn-stylekit-passive-color-4: #0e110c;
     --sn-stylekit-passive-color-4-opacity-variant: #0000003d;
-    --sn-stylekit-passive-color-3: #3d4367;
+    --sn-stylekit-passive-color-3: #67643d;
     --sn-stylekit-passive-color-5: #080507;
   
     --navigation-item-selected-background-color:var(--sn-stylekit-secondary-contrast-background-color);
